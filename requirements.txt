@@ -1,0 +1,11 @@
+kivy==2.3.0
+buildozer
+cython
+requests
+urllib3
+certifi
+chardet
+idna
+python-dotenv
+aiohttp
+pysocks
